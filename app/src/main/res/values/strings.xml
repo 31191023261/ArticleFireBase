@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ArticleApp</string>
+    <string name="database_url">https://fir-338bb-default-rtdb.firebaseio.com/</string>
+</resources>

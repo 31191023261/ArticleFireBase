@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "982864630966",
+    "firebase_url": "https://fir-338bb-default-rtdb.firebaseio.com",
+    "project_id": "fir-338bb",
+    "storage_bucket": "fir-338bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982864630966:android:fa592bcdddcbfb5d944217",
+        "android_client_info": {
+          "package_name": "haohuynh.st.ueh.edu.articleapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982864630966-n2l7lfms8e377eabfhqgk5709ugmv7n0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1YJlgiAQBeZ2VVIMEoC73aERIGq-C-vA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982864630966-n2l7lfms8e377eabfhqgk5709ugmv7n0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
